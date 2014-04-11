@@ -1,0 +1,11 @@
+Package: multivar
+Type: Package
+Title: Fit awesome psychological networks
+Version: 0.0.1
+Date: 2013-04-15
+Author: Sacha Epskamp
+Maintainer: Sacha Epskamp <mail@sachaepskamp.com>
+Description: This package will fit awesome networks blabla
+Depends: qgraph, semPlot, lavaan
+Bytecompile: yes
+License: GPL-2
